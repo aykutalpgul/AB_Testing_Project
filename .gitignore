@@ -1,0 +1,19 @@
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+
+# MacOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environments
+env/
+venv/
+
+# VSCode
+.vscode/
+
+# Data
+data/*.csv
